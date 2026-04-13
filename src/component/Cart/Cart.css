@@ -1,0 +1,65 @@
+/* Right-align cart items inside the modal */
+.cartContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.cartItem {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	width: 100%;
+}
+
+.cartItemImage {
+	width: 72px;
+	height: 84px;
+	object-fit: cover;
+	border-radius: 10px;
+}
+
+.cartItemDetails {
+	margin-left: 12px;
+}
+
+.cartItemName {
+	margin: 0 0 6px;
+}
+
+.cartItemQuantity {
+	margin: 0;
+	font-size: 0.95rem;
+}
+
+.cartItemControls {
+	margin-left: auto;
+	display: inline-flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.cartItemBtn {
+	border: 2px solid #111;
+	background: #f6d365;
+	color: #111;
+	padding: 4px 10px;
+	border-radius: 6px;
+	cursor: pointer;
+}
+
+.cartActions {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 12px;
+	margin-top: 8px;
+}
+
+.closecart_btn {
+	margin-right: auto;
+}
+
+.checkcart_btn {
+	margin-left: auto;
+}

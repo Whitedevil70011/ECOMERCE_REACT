@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"name": "Classic Sneakers",
+		"imageLink": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77"
+	},
+	{
+		"id": 2,
+		"name": "Canvas Backpack",
+		"imageLink": "https://images.unsplash.com/photo-1509762774605-f07235a08f1f"
+	},
+	{
+		"id": 3,
+		"name": "Minimal Watch",
+		"imageLink": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3"
+	},
+	{
+		"id": 4,
+		"name": "Leather Wallet",
+		"imageLink": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+	},
+	{
+		"id": 5,
+		"name": "Travel Mug",
+		"imageLink": "https://images.unsplash.com/photo-1517705008128-361805f42e86"
+	},
+	{
+		"id": 6,
+		"name": "Bluetooth Headphones",
+		"imageLink": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+	},
+	{
+		"id": 7,
+		"name": "Sunglasses",
+		"imageLink": "https://images.unsplash.com/photo-1511499767150-a48a237f0083"
+	},
+	{
+		"id": 8,
+		"name": "Desk Lamp",
+		"imageLink": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c"
+	}
+]
